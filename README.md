@@ -32,7 +32,7 @@ El script requiere dos argumentos obligatorios: la interfaz de red y la nueva di
 -----------------------------------------------------------
 SINTAXIS:
 -----------------------------------------------------------
-python3 LinuxMacChanger.py -i <interfaz> -m <nueva_mac>
+python3 LinuxMacChanger.py -i (interfaz) -m (nueva_mac)
 
 -----------------------------------------------------------
 ARGUMENTOS:
